@@ -65,12 +65,7 @@ bower install
 
             3.run gulp task that create new version of 'webapp' folder
 
-            4.run mvn task for building war file (spring boot task)
-            
-     - Note 2
-     
-     When running created war, you will need to import your own data into database (Risks, TypeOfRisk, Price, Regions)
-
+            4.run mvn task for building war file (spring boot task)           
 
 ## Team
 * [Radomir Marinković](https://github.com/alohaaloha)
